@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1188508176 XXX-XXX-XXX (external path)\main.cpp
+	<limits.h>
+	<SDL\SDL.h>
+	<gl\gl.h>
+	<plib\ul.h>
+	<plib\sg.h>
+	<plib\ssg.h>
+	<plib\ssgaux.h>
+	"moto.h"
+
+1188485309 XXX-XXX-XXX (external path)\moto.cpp
+	<plib\ul.h>
+	<plib\sg.h>
+	<plib\ssg.h>
+	"moto.h"
+
+1188485279 XXX-XXX-XXX (external path)\moto.h
+

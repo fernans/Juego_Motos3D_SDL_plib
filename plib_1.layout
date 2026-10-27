@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE CodeBlocks_layout_file>
+<CodeBlocks_layout_file>
+	<File name="main.cpp" open="1" top="1">
+		<Cursor position="1167" topLine="115"/>
+	</File>
+	<File name="moto.cpp" open="1" top="0">
+		<Cursor position="637" topLine="0"/>
+	</File>
+	<File name="moto.h" open="1" top="0">
+		<Cursor position="210" topLine="0"/>
+	</File>
+	<Expand folder="/Headers"/>
+</CodeBlocks_layout_file>
